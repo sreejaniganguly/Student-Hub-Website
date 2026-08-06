@@ -27,7 +27,7 @@ This project helped me practice:
 - Forms and input fields
 - Multi-page website design
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - JavaScript form validation
 - Responsive design for all devices
