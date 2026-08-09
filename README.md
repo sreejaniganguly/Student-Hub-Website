@@ -1,6 +1,6 @@
 #  Student Hub Website
 
-**CodeNest** is a beginner-friendly educational website built using **HTML5** and **CSS3**. It provides students with a clean and modern interface to explore learning resources, create an account, and navigate through different sections of the website.
+**CodeNest** is a beginner-friendly educational website built using **HTML** and **CSS**. It provides students with a clean and modern interface to explore learning resources, create an account, and navigate through different sections of the website.
 
 ##  Features
 
@@ -26,13 +26,4 @@ This project helped me practice:
 - Navigation bars
 - Forms and input fields
 - Multi-page website design
-
-##  Future Improvements
-
-- JavaScript form validation
-- Responsive design for all devices
-- Login page
-- Course cards
-- Backend integration
-- Database connectivity
 
