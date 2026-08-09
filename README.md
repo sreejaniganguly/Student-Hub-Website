@@ -19,11 +19,5 @@
 
 ##  Learning Objectives
 
-This project helped me practice:
-
-- Semantic HTML
-- CSS styling
-- Navigation bars
-- Forms and input fields
-- Multi-page website design
+This project helped me practice and strengthened my HTML & CSS concepts.
 
