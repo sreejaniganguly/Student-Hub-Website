@@ -138,3 +138,15 @@ footer a{
     font-size: 20px;
     margin: 15px;
 }
+
+/* NAVBAR */
+.navbar{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 60px;
+    background-color: #F2F0EF;
+}
+
+
