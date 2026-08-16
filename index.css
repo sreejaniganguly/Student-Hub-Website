@@ -61,3 +61,44 @@
     font-size: 20px;
     margin-left: 100px;
 }
+/* WHAT YOU CAN LEARN */
+.learning-section {
+    padding: 15px 80px;
+    text-align: center;
+    background-color: #F2F0EF;
+}
+.learning-section h2{
+    font-family: Georgia, serif;
+    font-size: 28px;
+    color: #222;
+    margin-bottom: 30px;
+}
+.learning-cards{
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+}
+.learning-card{
+    width: 180px;
+    min-height: 180px;
+    padding: 10px;
+    border: 1px solid #A7B3C0;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.5);
+}
+.learning-card p{
+    font-size: 17px;
+    line-height: 1.5;
+    color: #555;
+}
+.learning-card h3{
+    font-family: Georgia, serif;
+    margin-bottom: 10px;
+}
+.learning-card a{
+    color: #dea193;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold; 
+}
