@@ -68,11 +68,20 @@
     background-color: #F2F0EF;
 }
 .learning-section h2{
-    font-family: Georgia, serif;
+    font-family: Georgia, Serif;
     font-size: 28px;
     color: #222;
     margin-bottom: 30px;
 }
+.learning-section h2::after{
+    content: " ";
+    display: block;
+    width: 60px;
+    height: 2px;
+    background-color: #d99a9a;
+    margin: 8px auto 0;
+}
+    
 .learning-cards{
     display: flex;
     justify-content: center;
@@ -102,3 +111,48 @@
     font-size: 15px;
     font-weight: bold; 
 }
+/* WHY STUDENT HUB */
+.why-section{
+    padding: 30px 80px;
+    text-align: center;
+    background-color: #fffaf7;
+}
+.why-section h2{
+    font-family: Georgia, serif;
+    font-size: 28px;
+    color: #222;
+    margin-bottom: 30px;
+}
+.why-section h2::after{
+    content: " ";
+    display: block;
+    width: 60px;
+    height: 2px;
+    margin: 8px auto 0;
+    background-color: #d99a9a;
+}
+.why-cards{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.why-card{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 250px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.why-card h3{
+    font-family: Georgia, serif;
+    font-size: 16px;
+    margin: 0 0 8px;
+}
+.why-card p{
+    color: #555;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: left;
+}
+
