@@ -61,6 +61,10 @@
     font-size: 20px;
     margin-left: 100px;
 }
+.hero-button:hover{
+    background-color: #9f5c5c;
+}
+
 /* WHAT YOU CAN LEARN */
 .learning-section {
     padding: 15px 80px;
@@ -155,4 +159,54 @@
     line-height: 1.5;
     text-align: left;
 }
-
+/* CTA SECTION */
+.cta-section{
+    width: 98%;
+    background-color: #f3e2dc;
+    border-radius: 20px;
+    margin: 10px auto;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.cta-content h2{
+    font-family: Georgia, serif;
+    font-size: 32px;
+    color: #3d2925;
+    margin-bottom: 18px;
+}
+.cta-content p{
+    font-size: 16px;
+    color: #556;
+    margin-bottom: 18px;
+}
+.cta-button{
+    display: inline-block;
+    background-color: #b86f6f;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.cta-button:hover{
+    background-color: #9f5c5c;
+}
+.cta-images{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 35%;
+    height: 100%;
+}
+.cta-images img{
+    width: auto;
+    max-height: 275px;
+    object-fit: contain;
+}
+.cta-content{
+    width: 60%;
+    text-align: center;
+}
